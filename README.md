@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/><img src="https://github.com/esilesvn/Flowers_Recognition/blob/master/images/flower_icon.png" alt="Flower Icon" width="120"/>
 
-# Flowers_Recognition
+# Flowers Recognition Project
 Elise
 
 *Data Analytics Bootcamp, Paris, March 2020*
